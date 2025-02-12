@@ -1,4 +1,4 @@
-# OC-cache-sim
+# OC-cache-simulator
 Lab1 Assignment: Simple Cache Simulator
 
 Exercises:
